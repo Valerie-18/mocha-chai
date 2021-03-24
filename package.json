@@ -1,0 +1,23 @@
+{
+  "name": "mocha-chai-1",
+  "version": "1.0.0",
+  "description": "Demos unit test in Mocha and Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valerie-18/mocha-chai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valerie-18/mocha-chai/issues"
+  },
+  "homepage": "https://github.com/Valerie-18/mocha-chai#readme",
+  "dependencies": {
+    "package-lock.json": "^1.0.0"
+  }
+}
